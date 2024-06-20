@@ -1,0 +1,70 @@
+/***** iPad Smaller than 959px *****/
+@media only screen and (min-width: 720px) and (max-width: 1024px) {
+	
+#tagline {display: none; }	
+
+h1 {font-size: 35px; line-height: 40px;}
+
+h3 {font-size: 20px; line-height: 20px; margin: 0 0 10px 0; }
+
+.home-txt {font-size: 17px; line-height: 25px; margin-right: 5%;}
+
+	
+a:link.footer-link {
+font-size: 13px;	
+}	
+
+
+a:link.feature {
+
+	height: 90px; 
+	font-size: 18px; 
+	padding-top: 70px; 
+
+	}
+	
+a:hover.feature {
+	font-size: 23px; 
+
+	}	
+
+.proj {
+	height: 100px; 
+	padding-top: 40px; 
+	}
+		
+.proj-txt {
+    font-size: 17px; 
+    top: 60px;
+ }	
+ 
+
+ 
+
+.tn {font-size: 14px; text-align: center; border-bottom: 1px solid #ccc; padding-bottom: 7px; color: #999; margin-bottom: 20px;}
+.tn-txt {padding-top: 7px; border-top: 1px solid #ccc;}
+
+  
+	
+#menu li a:link {  font-size: 20px; line-height: 20px; padding: 5.2px; }
+
+	
+	
+	
+a:link.red-btn 	{color: #FFF; font-size: 14px; text-align: center; display: inline-block; margin-left: 0; margin-bottom: 5px; padding:6px 5px 6px 5px; text-decoration: none; border-radius: 3px; letter-spacing: -0.04em;}
+
+
+	
+#pin {width: 9%; height: auto; position: relative; right: 6px; top: 2px; float: right; max-width: 15px;}
+	
+	
+	
+
+.tn img {
+
+	  padding-bottom: 10px;
+	   width: 100%;
+	   height: 20vh;
+	   object-fit: cover;	
+	  }
+	

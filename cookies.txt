@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.cselect.net	TRUE	/	FALSE	1999999999	cfid	ff22445f-6012-4a90-a1e1-485a8bfd22ad
+www.cselect.net	TRUE	/	FALSE	1999999999	cftoken	0
+www.cselect.net	TRUE	/	FALSE	1999999999	CF_CLIENT_CSELECT_LV	1718359290105
+www.cselect.net	TRUE	/	FALSE	1999999999	CF_CLIENT_CSELECT_TC	1718349716004
+www.cselect.net	TRUE	/	FALSE	1999999999	CF_CLIENT_CSELECT_HC	27277
+
